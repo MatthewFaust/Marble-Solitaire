@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/c87b312d-05bc-4744-b7d1-89536a959f74
+
 Marble Solitaire Game Overview
 Board Representation: The game board is a grid, often with holes and marbles arranged in a specific pattern (e.g., cross-shaped board). The board will be represented as a 2D array or similar data structure.
 
