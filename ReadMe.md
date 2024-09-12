@@ -1,21 +1,4 @@
 
 https://github.com/user-attachments/assets/c87b312d-05bc-4744-b7d1-89536a959f74
 
-Marble Solitaire Game Overview
-Board Representation: The game board is a grid, often with holes and marbles arranged in a specific pattern (e.g., cross-shaped board). The board will be represented as a 2D array or similar data structure.
-
-Game Rules:
-
-Marbles can jump over adjacent marbles into an empty space, removing the jumped-over marble.
-The objective is to have only one marble left on the board.
-Game States:
-
-The board state: Positions of marbles and holes.
-The game status: Whether the game is ongoing, won, or lost.
-User Input: The player selects a marble to move and the destination for the jump.
-
-Game Mechanics:
-
-Valid move checking.
-Updating the board state based on moves.
-Checking for win/lose conditions.
+Marble Solitaire is a puzzle game played on a cross-shaped board represented as a 2D array. Marbles jump over adjacent marbles into empty spaces, removing the jumped-over marble. The goal is to leave only one marble on the board. The game tracks the board state, valid moves, and game status (ongoing, won, or lost). Players select a marble and a destination to make a move, with the game updating the board and checking for win or lose conditions.
