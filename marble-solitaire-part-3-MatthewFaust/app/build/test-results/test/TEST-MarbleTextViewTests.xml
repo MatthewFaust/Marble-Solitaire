@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MarbleTextViewTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-08-15T06:26:13" hostname="Matthews-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="testToStringTriangle()" classname="MarbleTextViewTests" time="0.0"/>
+  <testcase name="testToStringBigEuro()" classname="MarbleTextViewTests" time="0.0"/>
+  <testcase name="testToStringBigEnglishMovedEmpty()" classname="MarbleTextViewTests" time="0.0"/>
+  <testcase name="testToStringBigTriangle()" classname="MarbleTextViewTests" time="0.0"/>
+  <testcase name="testToStringEuro()" classname="MarbleTextViewTests" time="0.0"/>
+  <testcase name="testToStringEnglish()" classname="MarbleTextViewTests" time="0.0"/>
+  <testcase name="testConstructor()" classname="MarbleTextViewTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

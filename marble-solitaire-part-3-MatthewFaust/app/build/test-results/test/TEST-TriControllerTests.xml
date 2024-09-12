@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TriControllerTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-08-15T06:26:13" hostname="Matthews-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="testBigTriangle()" classname="TriControllerTests" time="0.001"/>
+  <testcase name="testTriangleGameEnd()" classname="TriControllerTests" time="0.0"/>
+  <testcase name="testTrianglePlayGame()" classname="TriControllerTests" time="0.001"/>
+  <testcase name="testTriangleMovedEmpty()" classname="TriControllerTests" time="0.0"/>
+  <system-out><![CDATA[Please enter a valid integer for To Row:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

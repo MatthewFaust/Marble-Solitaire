@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ControllerTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-08-15T06:26:13" hostname="Matthews-MacBook-Pro.local" time="0.028">
+  <properties/>
+  <testcase name="testTooLongInput()" classname="ControllerTests" time="0.013"/>
+  <testcase name="testQuiGame()" classname="ControllerTests" time="0.001"/>
+  <testcase name="testInvalidInteger()" classname="ControllerTests" time="0.002"/>
+  <testcase name="testTooShortInputEuro()" classname="ControllerTests" time="0.001"/>
+  <testcase name="testManyBadInputs()" classname="ControllerTests" time="0.001"/>
+  <testcase name="testTooShortInput()" classname="ControllerTests" time="0.001"/>
+  <testcase name="testRenderHelper()" classname="ControllerTests" time="0.0"/>
+  <testcase name="testNegativeInteger()" classname="ControllerTests" time="0.0"/>
+  <testcase name="testCanQuitGame()" classname="ControllerTests" time="0.0"/>
+  <testcase name="testConstructor()" classname="ControllerTests" time="0.001"/>
+  <system-out><![CDATA[Incorrect number of digits. Please enter 4 integers and try again.
+Please enter a valid integer for To Row:
+Incorrect number of digits. Please enter 4 integers and try again.
+Incorrect number of digits. Please enter 4 integers and try again.
+Please enter a valid integer for To Col:
+Please enter a positive integer for Please enter a valid integer for To Col:
+Incorrect number of digits. Please enter 4 integers and try again.
+Please enter a positive integer for Please enter a valid integer for To Row:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

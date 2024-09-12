@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EngControllerTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-08-15T06:26:13" hostname="Matthews-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="testTooLongInput()" classname="EngControllerTests" time="0.0"/>
+  <testcase name="testQuiGame()" classname="EngControllerTests" time="0.0"/>
+  <testcase name="testInvalidInteger()" classname="EngControllerTests" time="0.0"/>
+  <testcase name="testManyBadInputs()" classname="EngControllerTests" time="0.0"/>
+  <testcase name="testTooShortInput()" classname="EngControllerTests" time="0.001"/>
+  <testcase name="testRenderHelper()" classname="EngControllerTests" time="0.001"/>
+  <testcase name="testNegativeInteger()" classname="EngControllerTests" time="0.001"/>
+  <testcase name="testCanQuitGame()" classname="EngControllerTests" time="0.0"/>
+  <testcase name="testConstructor()" classname="EngControllerTests" time="0.0"/>
+  <system-out><![CDATA[Incorrect number of digits. Please enter 4 integers and try again.
+Please enter a valid integer for To Row:
+Incorrect number of digits. Please enter 4 integers and try again.
+Please enter a valid integer for To Col:
+Please enter a positive integer for Please enter a valid integer for To Col:
+Incorrect number of digits. Please enter 4 integers and try again.
+Please enter a positive integer for Please enter a valid integer for To Row:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
